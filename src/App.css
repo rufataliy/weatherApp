@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:600');
+* {
+  font-family: 'Dosis', sans-serif;
+}
+body {
+  background: #1C2833;
+}
+.wrapper {
+  width: 90%;
+  height: 80vh;
+  display: flex;
+  margin: 10vh auto;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+}
+.heading {
+  color: #1C2833;
+}
+.heading h1 {
+  font-size: 2.6rem;
+}
+.heading p {
+  font-size: 1.5rem;
+}
+.main {
+  width: 50%;
+  text-align: center;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.main-wrapper {
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.main form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: transparent;
+  padding: 8px 5px;
+  margin-bottom: 18px;
+  font-size: 20px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-bottom: 1px solid white;
+}
+input:focus {
+  outline: none;
+}
+.buttons {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+button, a{
+  display: block;
+  box-sizing: border-box;
+  background: #58D68D;
+  width: 40%;
+  padding: 10px 3px;
+  border: none;
+  color: #1C2833;
+  font-size: 1.5rem;
+  margin-bottom: 18px;
+  box-shadow: 0px 2px 5px 3px rgba(0, 0, 0, 0.2);
+}
+button:focus {
+  outline: none;
+}
+button:active {
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+
+}
+.result-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  border-bottom: 1px solid white;
+  padding: 5px 0;
+}
+
+.key {
+  color: #1C2833;
+  font-size: 1.5rem;
+}
+.value {
+  color: white;
+  font-size: 1.5rem;
+}
