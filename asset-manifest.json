@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rufataliy/weatherApp/static/css/main.1e7d0d8d.chunk.css",
+    "main.js": "/rufataliy/weatherApp/static/js/main.8e821e6e.chunk.js",
+    "main.js.map": "/rufataliy/weatherApp/static/js/main.8e821e6e.chunk.js.map",
+    "runtime~main.js": "/rufataliy/weatherApp/static/js/runtime~main.5dcc1fb6.js",
+    "runtime~main.js.map": "/rufataliy/weatherApp/static/js/runtime~main.5dcc1fb6.js.map",
+    "static/js/2.65271029.chunk.js": "/rufataliy/weatherApp/static/js/2.65271029.chunk.js",
+    "static/js/2.65271029.chunk.js.map": "/rufataliy/weatherApp/static/js/2.65271029.chunk.js.map",
+    "index.html": "/rufataliy/weatherApp/index.html",
+    "precache-manifest.4cbaade1fd9880a58536e0020b108856.js": "/rufataliy/weatherApp/precache-manifest.4cbaade1fd9880a58536e0020b108856.js",
+    "service-worker.js": "/rufataliy/weatherApp/service-worker.js",
+    "static/css/main.1e7d0d8d.chunk.css.map": "/rufataliy/weatherApp/static/css/main.1e7d0d8d.chunk.css.map"
+  }
+}
