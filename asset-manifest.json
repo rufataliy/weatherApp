@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rufataliy/weatherApp/static/css/main.1e7d0d8d.chunk.css",
-    "main.js": "/rufataliy/weatherApp/static/js/main.8e821e6e.chunk.js",
-    "main.js.map": "/rufataliy/weatherApp/static/js/main.8e821e6e.chunk.js.map",
-    "runtime~main.js": "/rufataliy/weatherApp/static/js/runtime~main.5dcc1fb6.js",
-    "runtime~main.js.map": "/rufataliy/weatherApp/static/js/runtime~main.5dcc1fb6.js.map",
-    "static/js/2.65271029.chunk.js": "/rufataliy/weatherApp/static/js/2.65271029.chunk.js",
-    "static/js/2.65271029.chunk.js.map": "/rufataliy/weatherApp/static/js/2.65271029.chunk.js.map",
-    "index.html": "/rufataliy/weatherApp/index.html",
-    "precache-manifest.4cbaade1fd9880a58536e0020b108856.js": "/rufataliy/weatherApp/precache-manifest.4cbaade1fd9880a58536e0020b108856.js",
-    "service-worker.js": "/rufataliy/weatherApp/service-worker.js",
-    "static/css/main.1e7d0d8d.chunk.css.map": "/rufataliy/weatherApp/static/css/main.1e7d0d8d.chunk.css.map"
+    "main.css": "/rufataliyev/weatherApp/static/css/main.1e7d0d8d.chunk.css",
+    "main.js": "/rufataliyev/weatherApp/static/js/main.86a4930a.chunk.js",
+    "main.js.map": "/rufataliyev/weatherApp/static/js/main.86a4930a.chunk.js.map",
+    "runtime~main.js": "/rufataliyev/weatherApp/static/js/runtime~main.67a6e766.js",
+    "runtime~main.js.map": "/rufataliyev/weatherApp/static/js/runtime~main.67a6e766.js.map",
+    "static/js/2.4403e4c4.chunk.js": "/rufataliyev/weatherApp/static/js/2.4403e4c4.chunk.js",
+    "static/js/2.4403e4c4.chunk.js.map": "/rufataliyev/weatherApp/static/js/2.4403e4c4.chunk.js.map",
+    "index.html": "/rufataliyev/weatherApp/index.html",
+    "precache-manifest.ffa19a030f611a8ba10ad554ccbcfb55.js": "/rufataliyev/weatherApp/precache-manifest.ffa19a030f611a8ba10ad554ccbcfb55.js",
+    "service-worker.js": "/rufataliyev/weatherApp/service-worker.js",
+    "static/css/main.1e7d0d8d.chunk.css.map": "/rufataliyev/weatherApp/static/css/main.1e7d0d8d.chunk.css.map"
   }
 }
